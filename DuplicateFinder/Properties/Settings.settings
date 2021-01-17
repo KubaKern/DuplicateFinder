@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DuplicateFinder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Theme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Day</Value>
+    </Setting>
+    <Setting Name="Hash" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SHA1</Value>
+    </Setting>
+    <Setting Name="FormBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Gainsboro</Value>
+    </Setting>
+    <Setting Name="PanelTopColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">54, 79, 123</Value>
+    </Setting>
+    <Setting Name="PanelLogoColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">32, 34, 41</Value>
+    </Setting>
+    <Setting Name="PanelLeftMenuColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">62, 75, 97</Value>
+    </Setting>
+    <Setting Name="ButtonFileColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">62, 75, 97</Value>
+    </Setting>
+    <Setting Name="ButtonPartitionColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">62, 75, 97</Value>
+    </Setting>
+    <Setting Name="ButtonSettingsColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">62, 75, 97</Value>
+    </Setting>
+    <Setting Name="ButtonAboutColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">62, 75, 97</Value>
+    </Setting>
+    <Setting Name="PanelFileColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">62, 75, 97</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
